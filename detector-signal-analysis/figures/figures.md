@@ -1,0 +1,5 @@
+Clean detector pulse: ![Clean_detector_pulse](image.png)
+Noisy detector signal: ![Noisy_detector_signal](image-1.png)
+Detection efficiency vs noise: ![Detection_efficiency_vs_noise](image-5.png)
+Weak signal threshold efficiency: ![Weak_signal_threshold_efficiency](image-3.png)
+False positive timing window comparison: ![False_positive_timing_window_comparison](image-4.png)
