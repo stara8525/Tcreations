@@ -93,7 +93,7 @@ $$
 ![Resonance Damping Effect](image-4.png)
 
 ### Mass-spring animation 
-![Mass Spring Animation](figures/mass_spring_animation.gif)
+![Mass Spring Animation](Figures/mass_spring_animation.gif)
 
 ## Key Findings
 
