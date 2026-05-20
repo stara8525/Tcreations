@@ -91,6 +91,10 @@ $$
 ### Effect of Damping on Resonance
 
 ![Resonance Damping Effect](image-4.png)
+
+### Mass-spring animation 
+![Mass Spring Animation](figures/mass_spring_animation.gif)
+
 ## Key Findings
 
 - Increasing angular frequency causes the oscillator to complete more cycles in the same time interval.
